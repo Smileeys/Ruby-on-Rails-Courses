@@ -13,6 +13,7 @@
     			<li><h3>Ruby on Rails: An Introduction</h3>
     				<ul>
     					<li>Calculating Maximum Word Frequency</li>
+    					<li>Recipe Finder Application</li>
 					</ul>
     			</li>
     		</ul>
