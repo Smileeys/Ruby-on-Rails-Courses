@@ -1,5 +1,3 @@
-ENV['FOOD2FORK_KEY'] = "77fafdd9293cceda8f9b3391312a3b2a" #TODO CHANGE PLACE
-ENV['FOOD2FORK_SERVER_AND_PORT'] = "food2fork.com"
 class Recipe
 	include HTTParty
 
