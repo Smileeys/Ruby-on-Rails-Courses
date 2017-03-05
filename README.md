@@ -12,9 +12,14 @@
     		<ul>
     			<li><h3>Ruby on Rails: An Introduction</h3>
     				<ul>
-    					<li>Calculating Maximum Word Frequency</li>
-    					<li>Recipe Finder Application</li>
+    					<li>Calculating Maximum Word Frequency (Ruby basics)</li>
+    					<li>Recipe Finder Application (Ruby on Rails basics)</li>
 					</ul>
+    			</li>
+    			<li><h3>Rails with Active Record and Action Pack</h3>
+	    			<ul>
+	    				<li>Todo Lists (Active Record basics)</li>
+	    			</ul>
     			</li>
     		</ul>
     	</li>
