@@ -18,7 +18,8 @@
     			</li>
     			<li><h3>Rails with Active Record and Action Pack</h3>
 	    			<ul>
-	    				<li>Todo Lists (Active Record basics)</li>
+	    				<li>Basic Active Record CRUD</li>
+	    				<li>Active Record Relationships</li>
 	    			</ul>
     			</li>
     		</ul>
