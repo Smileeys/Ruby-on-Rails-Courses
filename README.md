@@ -20,6 +20,7 @@
 	    			<ul>
 	    				<li>Basic Active Record CRUD</li>
 	    				<li>Active Record Relationships</li>
+	    				<li>ActionPack</li>
 	    			</ul>
     			</li>
     		</ul>
