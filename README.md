@@ -20,7 +20,8 @@
 	    			<ul>
 	    				<li>Basic Active Record CRUD</li>
 	    				<li>Active Record Relationships</li>
-	    				<li>ActionPack</li>
+                        <li>ActionPack</li>
+	    				<li>Nested Resources, Security and Pagination</li>
 	    			</ul>
     			</li>
     		</ul>
